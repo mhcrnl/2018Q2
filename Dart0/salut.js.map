@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "engine": "v1",
+  "file": "salut.js",
+  "sourceRoot": "",
+  "sources": ["../../../.local/share/umake/dart/dart-sdk/lib/_internal/js_runtime/lib/js_primitives.dart","salut.dart","../../../.local/share/umake/dart/dart-sdk/lib/_internal/js_runtime/lib/internal_patch.dart","../../../.local/share/umake/dart/dart-sdk/lib/core/print.dart"],
+  "names": ["printString","main","printToConsole","print"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iBAmBAA;MACEA,IAAIA,8B;QAEFA;QACAA;;MAIFA,IAAIA,8BACAA;QACFA;QACAA;;MAIFA,IAAIA;QACFA;MAIFA,IAAIA;QACFA;QACAA;;MAMFA;KACFA,A;;;UChDAC;MC8BEC,cCtBgBC;KFNlBF,A"
+}
