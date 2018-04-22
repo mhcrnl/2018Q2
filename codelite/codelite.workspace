@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="codelite" Database="">
+  <Project Name="GtkWidgetV02" Path="GtkWidgetV02/GtkWidgetV02.project" Active="Yes"/>
+  <Project Name="termV01" Path="termV01/termV01.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="GtkWidgetV02" ConfigName="Debug"/>
+      <Project Name="termV01" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="GtkWidgetV02" ConfigName="Release"/>
+      <Project Name="termV01" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
